@@ -1,5 +1,5 @@
 # BasicDiscordBot
-A basic template for creating discord bots.
+A basic template for creating discord bots as a C# console application.
 
 This is a template made using the instructional guide from https://docs.stillu.cc/guides/getting_started/first-bot.html
 This is the minimal amount of code to run a functional bot that is simply able to authenticate access into a discord server and log some fatal errors.
